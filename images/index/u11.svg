@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="220px" height="220px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip3">
+    <mask fill="white" id="clip723">
       <path d="M 220 110  C 220 171.6  171.6 220  110 220  C 48.4 220  0 171.6  0 110  C 0 48.4  48.4 0  110 0  C 171.6 0  220 48.4  220 110  Z M 10 110.5  C 10 166.22  53.78 210  109.5 210  C 165.22 210  209 166.22  209 110.5  C 209 54.78  165.22 11  109.5 11  C 53.78 11  10 54.78  10 110.5  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -580 -132 )">
     <path d="M 220 110  C 220 171.6  171.6 220  110 220  C 48.4 220  0 171.6  0 110  C 0 48.4  48.4 0  110 0  C 171.6 0  220 48.4  220 110  Z M 10 110.5  C 10 166.22  53.78 210  109.5 210  C 165.22 210  209 166.22  209 110.5  C 209 54.78  165.22 11  109.5 11  C 53.78 11  10 54.78  10 110.5  Z " fill-rule="nonzero" fill="#f59a23" stroke="none" transform="matrix(1 0 0 1 580 132 )" />
-    <path d="M 220 110  C 220 171.6  171.6 220  110 220  C 48.4 220  0 171.6  0 110  C 0 48.4  48.4 0  110 0  C 171.6 0  220 48.4  220 110  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 580 132 )" mask="url(#clip3)" />
-    <path d="M 10 110.5  C 10 166.22  53.78 210  109.5 210  C 165.22 210  209 166.22  209 110.5  C 209 54.78  165.22 11  109.5 11  C 53.78 11  10 54.78  10 110.5  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 580 132 )" mask="url(#clip3)" />
+    <path d="M 220 110  C 220 171.6  171.6 220  110 220  C 48.4 220  0 171.6  0 110  C 0 48.4  48.4 0  110 0  C 171.6 0  220 48.4  220 110  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 580 132 )" mask="url(#clip723)" />
+    <path d="M 10 110.5  C 10 166.22  53.78 210  109.5 210  C 165.22 210  209 166.22  209 110.5  C 209 54.78  165.22 11  109.5 11  C 53.78 11  10 54.78  10 110.5  Z " stroke-width="2" stroke="#ffffff" fill="none" transform="matrix(1 0 0 1 580 132 )" mask="url(#clip723)" />
   </g>
 </svg>
